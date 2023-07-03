@@ -1,8 +1,8 @@
 cont = "s"
-print("Star pyramid generator.")
+print("pyramid generator")
 print()
 while cont == "s":
-    num = int(input("Enter a number : "))
+    num = int(input("enter a number : "))
     a = 0
     b = 1
     c = num
